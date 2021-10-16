@@ -1,5 +1,9 @@
 # React Task Tracker
 
+Mobile First Task Tracking App created in react
+
+Uses JSON for the backend as a pseudo-database
+
 Running
 
 npm run server
