@@ -1,10 +1,10 @@
 # React Task Tracker
 
-Mobile First Task Tracking App created in react
+Responsive Task Tracking App created with React
 
 Uses JSON for the backend as a pseudo-database
 
-Running
+## Running
 
 npm run server
 - gets a json server running on port 8080
